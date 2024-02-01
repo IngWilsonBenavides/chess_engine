@@ -1,0 +1,14 @@
+url: https://www.youtube.com/watch?v=OpL0Gcfn4B4&t=1058s
+name: Coding a Complete Chess Game AI With Python (Part 1) | PVP Game Mode
+github: https://github.com/AlejoG10/python-chess-ai-yt
+
+
+install anaconda
+conda install pip
+pip install pygame
+
+pygame-2.5.2
+Python 3.11.5
+conda 23.7.4
+
+
